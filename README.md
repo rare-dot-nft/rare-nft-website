@@ -1,5 +1,5 @@
 # RARE DOTS
-Website to inform our customers about our NFT project
+Website to inform our supporters about our NFT project
 
 ## What we Want to do?
 We are a group of students who are running a social experiment to cover our expenses and pay our fees. We have 2000 pieces of unique rare dots NFT which we will sell at 0.02 ETH as floor price. 
